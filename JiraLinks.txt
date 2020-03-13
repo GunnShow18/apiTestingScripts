@@ -1,0 +1,15 @@
+Download Jira from below link
+
+https://www.atlassian.com/software/jira/download
+
+
+
+Authentication API
+
+https://developer.atlassian.com/jiradev/jira-apis/jira-rest-apis/jira-rest-api-tutorials/jira-rest-api-example-cookie-based-authentication
+
+
+
+CreateIssue
+
+https://docs.atlassian.com/jira/REST/cloud/#api/2/issue-createIssue
